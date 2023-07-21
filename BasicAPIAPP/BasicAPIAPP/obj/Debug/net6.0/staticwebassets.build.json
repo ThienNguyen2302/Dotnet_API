@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NIjMwGXxHkFQEyb9djI6dbuWtyDmKiQgAul4f8z3hVg=",
+  "Source": "BasicAPIAPP",
+  "BasePath": "_content/BasicAPIAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
